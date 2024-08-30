@@ -1,6 +1,7 @@
 # bifrost
 
 **bifrost** is an application designed to manage two clusters for index replication and snapshot.
+![image](https://github.com/user-attachments/assets/099b0d46-ca55-4c47-b4e9-dbcdc479a1d3)
 
 ## Getting Started
 
